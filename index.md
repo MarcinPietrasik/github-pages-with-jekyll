@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my first GitHub page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+It is created to learn with GitHUb bot how to use GitHub pages feature.
